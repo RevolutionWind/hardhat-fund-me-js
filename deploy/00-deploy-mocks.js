@@ -12,7 +12,7 @@ module.exports = async ({ getNamedAccounts, deployments }) => {
       constract: "MockV3Aggregator",
       from: deployer,
       log: true,
-      args: [8, 100000000000],
+      args: [DECIMALS, INITIAL_ANSWER],
     });
     log(`MockPriceFeed deployed to ${mockPriceFeed.address}`);
   }
