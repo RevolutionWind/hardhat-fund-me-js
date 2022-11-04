@@ -6,7 +6,7 @@
       "contentHash": "4a1e2eaa549f53e530748673231bfec9",
       "sourceName": "contracts/FundMe.sol",
       "solcConfig": {
-        "version": "0.8.8",
+        "version": "0.8.7",
         "settings": {
           "optimizer": {
             "enabled": false,
@@ -51,7 +51,7 @@
       "contentHash": "732dfcfdb5b62d85150ab606c0abb8bc",
       "sourceName": "contracts/PriceConverter.sol",
       "solcConfig": {
-        "version": "0.8.8",
+        "version": "0.8.7",
         "settings": {
           "optimizer": {
             "enabled": false,
@@ -91,11 +91,11 @@
       ]
     },
     "/Users/sunxy/vscode_project/hh-fcc/hardhat-fund-me-js/node_modules/@chainlink/contracts/src/v0.8/interfaces/AggregatorV3Interface.sol": {
-      "lastModificationDate": 1667360286763,
+      "lastModificationDate": 1667553601456,
       "contentHash": "611f626b2447ccff9ba5332460fd217f",
       "sourceName": "@chainlink/contracts/src/v0.8/interfaces/AggregatorV3Interface.sol",
       "solcConfig": {
-        "version": "0.8.8",
+        "version": "0.8.7",
         "settings": {
           "optimizer": {
             "enabled": false,
